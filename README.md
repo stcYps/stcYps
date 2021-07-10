@@ -10,7 +10,7 @@
   <a href="https://twitter.com/stcYps7"> 
     <img src="https://img.shields.io/static/v1?label=&message=stcYps7&color=blue&style=flat-square&logo=twitter&logoColor=white">
   </a> 
-  <a href="https://discord.com/app"><img src="https://img.shields.io/static/v1?label=&message=わいぷす%230120&color=6F85D3&style=flat-square&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/app"><img src="https://img.shields.io/static/v1?label=&message=わいぷす#0120&color=6F85D3&style=flat-square&logo=discord&logoColor=white"></a>
 </p>  
 
 <div>
