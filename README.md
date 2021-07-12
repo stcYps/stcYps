@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/TeamKun">
-    <img src="https://img.shields.io/static/v1?label=&message=KUN Lab&color=24292E&style=flat-square&logo=github&logoColor=white"></a>
+    <img src="https://img.shields.io/static/v1?label=&message=KUNLab&color=24292E&style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://twitter.com/stcYps7"> 
     <img src="https://img.shields.io/static/v1?label=&message=stcYps7&color=blue&style=flat-square&logo=twitter&logoColor=white">
   </a> 
