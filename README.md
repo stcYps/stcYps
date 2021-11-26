@@ -2,7 +2,8 @@
 # Hi there 👋
 初心者プログラマです  
 自分が興味を持ったことをのんびりと勉強しています  
-今はKUNLabでMinecraftのプラグインを作ってます
+今はKUNLabでMinecraftのプラグインを作ってます  
+最近はKtorに惹かれてサーバーサイドKotlin勉強中！！
 
 <p align="center">
   <a href="https://github.com/TeamKun">
@@ -10,7 +11,7 @@
   <a href="https://twitter.com/stcYps7"> 
     <img src="https://img.shields.io/static/v1?label=&message=stcYps7&color=blue&style=flat-square&logo=twitter&logoColor=white">
   </a> 
-  <a href="https://discord.com/app"><img src="https://img.shields.io/static/v1?label=&message=stcYps%230120&color=6F85D3&style=flat-square&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/app"><img src="https://img.shields.io/static/v1?label=&message=%E3%82%8F%E3%81%84%E3%81%B7%E3%81%99%230120&color=6F85D3&style=flat-square&logo=discord&logoColor=white"></a>
 </p>  
 
 <div>
