@@ -8,10 +8,16 @@
 <p align="center">
   <a href="https://github.com/TeamKun">
     <img src="https://img.shields.io/static/v1?label=&message=KUNLab&color=24292E&style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://twitter.com/stcYps7"> 
-    <img src="https://img.shields.io/static/v1?label=&message=stcYps7&color=blue&style=flat-square&logo=twitter&logoColor=white">
+  <a href="https://zenn.dev/yps"> 
+    <img src="https://img.shields.io/static/v1?label=&message=%E3%82%8F%E3%81%84%E3%81%B7%E3%81%99&color=3EA8FF&style=flat-square&logo=zenn&logoColor=white">
   </a> 
-  <a href="https://discord.com/app"><img src="https://img.shields.io/static/v1?label=&message=%E3%82%8F%E3%81%84%E3%81%B7%E3%81%99%230120&color=6F85D3&style=flat-square&logo=discord&logoColor=white"></a>
+  <a href="https://www.instagram.com/stcyps/"> 
+    <img src="https://img.shields.io/static/v1?label=&message=stcyps&color=FF69B4&style=flat-square&logo=instagram&logoColor=white">
+  </a> 
+  <a href="https://www.youtube.com/channel/UC1VHyFUIfQtbQsjj-_SDHcQ"> 
+    <img src="https://img.shields.io/static/v1?label=&message=%E3%82%8F%E3%81%84%E3%81%B7%E3%81%99&color=E05D44&style=flat-square&logo=youtube&logoColor=white">
+  </a> 
+  <a href="https://discord.com/app"><img src="https://img.shields.io/static/v1?label=&message=%E3%82%8F%E3%81%84%E3%81%B7%E3%81%99%231040&color=6F85D3&style=flat-square&logo=discord&logoColor=white"></a>
 </p>  
 
 <div>
